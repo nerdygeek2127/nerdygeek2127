@@ -3,7 +3,7 @@
 
 💼 My background includes working with SAAS sales/marketing teams, developing dashboards that prevent outreach overlaps, and optimizing data workflows in CRMs. As a freelancer, I've developed apps, websites, and automated systems, delivering high-quality results that meet client needs.
 
-🔧 I'm passionate about creating clean, intuitive user interfaces, both for desktop apps (Tkinter) and web-based tools. My projects focus on integrating technical precision with user-friendly design.
+🔧 I'm passionate about creating clean, intuitive user interfaces, both for desktop apps and web-based tools. My projects focus on integrating technical precision with user-friendly design.
 
 🚀 Whether leading a development team or managing projects under tight budgets, I’m always focused on delivering impactful, results-driven solutions.
 
